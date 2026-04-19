@@ -216,8 +216,7 @@ python -m nuitka --standalone --onefile \
 - [x] Gemini AI pipeline  
 - [x] PDF report generation  
 - [ ] Web dashboard  
-- [ ] API pública  
-- [ ] Integração com novas fontes (X, Telegram)
+- [x] API pública
 
 ---
 
