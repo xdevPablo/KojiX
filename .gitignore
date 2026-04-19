@@ -1,0 +1,34 @@
+# ── AMBIENTES VIRTUAIS ──
+.venv/
+venv/
+env/
+ENV/
+
+# ── CREDENCIAIS E SEGURANÇA ──
+.env
+.env.*
+*.pem
+
+# ── CACHE PYTHON ──
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ── DADOS E LOGS LOCAIS ──
+*.log
+*.sqlite3
+db.sqlite3
+*.db
+data/*.md
+data/*.pdf
+data/historico/reexports/*.pdf
+
+# ── ARTEFATOS DE COMPILAÇÃO (NUITKA) ──
+*.build/
+*.dist/
+*.onefile-build/
+*.exe
+
+# ── IDEs ──
+.vscode/
+.idea/

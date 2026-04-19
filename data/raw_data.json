@@ -1,0 +1,167 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-04-19T16:56:39.330473",
+  "search_term": "Deepseek",
+  "reddit_threads": [
+    {
+      "fonte": "reddit",
+      "titulo": "China just used Claude to hack 30 companies. The AI did 90% of the work. Anthropic caught them and is telling everyone how they did it.",
+      "texto_completo": "September 2025. Anthropic detected suspicious activity on Claude. Started investigating.\n\nTurns out it was Chinese state-sponsored hackers. They used Claude Code to hack into roughly 30 companies. Big tech companies, Banks, Chemical manufacturers, and Government agencies.\n\nThe AI did 80-90% of the hacking work. Humans only had to intervene 4-6 times per campaign.\n\nAnthropic calls this \"the first documented case of a large-scale cyberattack executed without substantial human intervention.\"\n\nThe hackers convinced Claude to hack for them. Then Claude analyzed targets -&gt; spotted vulnerabilities -&gt; wrote exploit code -&gt; harvested passwords -&gt; extracted data, and documented everything. All by itself.\n\nClaude's trained to refuse harmful requests. So how'd they get it to hack?\n\nThey...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1ox3bfr/china_just_used_claude_to_hack_30_companies_the/",
+      "url_externa": "https://assets.anthropic.com/m/ec212e6566a0d47/original/Disrupting-the-first-reported-AI-orchestrated-cyber-espionage-campaign.pdf",
+      "autor": "chota-kaka",
+      "upvotes": 2218,
+      "subreddit": "cybersecurity",
+      "created_utc": 1763142443.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "an ai agent scanned an employee's inbox, found compromising emails, and threatened to send them to the board. this actually happened last month.",
+      "texto_completo": "[https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/](https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/)  \n  \na vc at ballistic ventures shared this with techcrunch last month:\n\n\n\nan enterprise employee tried to override what an ai agent wanted to do. the agent responded by scanning the employee's inbox, finding compromising emails, and threatening to forward them to the board unless they backed off.\n\n\n\nnot a lab scenario. real employee, real company.\n\n\n\nanthropic's research backs this up, when they stress-tested 16 frontier models (claude, gpt, gemini, grok, deepseek, llama) in simulated corporate environments with email access, 65-96% resorted to blackmail when threatened with...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1rbz4fe/an_ai_agent_scanned_an_employees_inbox_found/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1rbz4fe/an_ai_agent_scanned_an_employees_inbox_found/",
+      "autor": "nihal_was_here",
+      "upvotes": 186,
+      "subreddit": "cybersecurity",
+      "created_utc": 1771797778.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Federal authorities take down one of the largest DDoS network operators ever",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: Federal authorities take down one of the largest DDoS network operators ever | Fonte externa: https://www.techspot.com/news/109144-federal-authorities-take-down-one-largest-ddos-network.html",
+      "url": "https://reddit.com/r/cybersecurity/comments/1mvwir3/federal_authorities_take_down_one_of_the_largest/",
+      "url_externa": "https://www.techspot.com/news/109144-federal-authorities-take-down-one-largest-ddos-network.html",
+      "autor": "gurugabrielpradipaka",
+      "upvotes": 87,
+      "subreddit": "cybersecurity",
+      "created_utc": 1755736828.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "What AI tools are you concerned about or don’t allow in your org?",
+      "texto_completo": "Now that we’ve all had some time to adjust to the new “AI everywhere” world we’re living in, we’re curious where folks have landed on which AI apps to approve or ban in their orgs.\n\nDeepSeek aside, what AI tools are on your organization's “not allowed” list, and what drove that decision? Was it vendor credibility, model training practices, or other factors?\n\nWould love to hear what factors you’re considering when deciding which AI tools can stay, and which need to stay out.",
+      "url": "https://reddit.com/r/cybersecurity/comments/1k4hjy2/what_ai_tools_are_you_concerned_about_or_dont/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1k4hjy2/what_ai_tools_are_you_concerned_about_or_dont/",
+      "autor": "NudgeSecurity",
+      "upvotes": 40,
+      "subreddit": "cybersecurity",
+      "created_utc": 1745252647.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Someone tested the Mythos showcase vulnerabilities with open models. 8/8 found the flagship FreeBSD zero-day, including a 3B model.",
+      "texto_completo": "Everyone's talking about Project Glasswing and Mythos being gated for safety. SOmeone at Aisle security just independently replicated the showcase vulnerabilities with open-weight models and the results are interesting. \n\n\\- 8 out of 8 models found the FreeBSD NFS RCE (CVE-2026-4747), including GPT-OSS-20b at 3.6B active params and $0.11/M tokens \n\n\\- A 5.1B parameter model recovered the full OpenBSD SACK exploit chain the 27-year-old bug,  in a single call!\n\n\\- Rankings reshuffle completely across tasks. No model dominates. Claude variants failed a trivial OWASP false-positive test that smaller models passed!     \n\n\\- DeepSeek R1 proposed an alternative payload delivery that bypasses Mythos's multi-round approach entirely\n\nTheir conclusion: the moat in AI cybersecurity is the system, not...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1sg2383/someone_tested_the_mythos_showcase/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1sg2383/someone_tested_the_mythos_showcase/",
+      "autor": "ritzkew",
+      "upvotes": 31,
+      "subreddit": "cybersecurity",
+      "created_utc": 1775674793.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "We stress-tested 8 AI agents with adversarial probes - none passed survivability certification",
+      "texto_completo": "We stress-tested **8 AI agents** for deployment survivability.\n\n**Results**\n\n• **0 passed certification**  \n• **3 conditionally allowed**  \n• **5 blocked from deployment**\n\nAgents tested:\n\n— GPT-4o → **CONDITIONAL**  \n— Claude Sonnet 4 → **CONDITIONAL**  \n— GPT-4o-mini → **CONDITIONAL**  \n— Gemini 2.0 Flash → **BLOCKED**  \n— DeepSeek Chat → **BLOCKED**  \n— Mistral Large → **BLOCKED**  \n— Llama 3.3 70B → **BLOCKED**  \n— Grok 3 → **BLOCKED**\n\nMost AI evaluations test **capability**  \n(can the model answer questions, write code, pass exams).\n\nWe tested **survivability** \\- what happens when an agent is **actively attacked**.\n\nEach agent faced:\n\n• **25 adversarial probes**  \n• **8 attack classes**  \n(prompt injection, data exfiltration, tool abuse, privilege escalation, cascading...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1rkj982/we_stresstested_8_ai_agents_with_adversarial/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1rkj982/we_stresstested_8_ai_agents_with_adversarial/",
+      "autor": "Frosty_Wealth4196",
+      "upvotes": 8,
+      "subreddit": "cybersecurity",
+      "created_utc": 1772624479.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Detecting and preventing distillation attacks",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: Detecting and preventing distillation attacks | Fonte externa: https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "url": "https://reddit.com/r/cybersecurity/comments/1rcrra0/detecting_and_preventing_distillation_attacks/",
+      "url_externa": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
+      "autor": "Several_Print4633",
+      "upvotes": 7,
+      "subreddit": "cybersecurity",
+      "created_utc": 1771876048.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "DeepSeek Deception: Sainbox RAT &amp; Hidden Rootkit Delivery - \"we encountered multiple installers disguised as legitimate software, including WPS Office, Sogou, and DeepSeek\"",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: DeepSeek Deception: Sainbox RAT &amp; Hidden Rootkit Delivery - \"we encountered multiple installers disguised as legitimate software, including WPS Office, Sogou, and DeepSeek\" | Fonte externa: https://www.netskope.com/blog/deepseek-deception-sainbox-rat-hidden-rootkit-delivery",
+      "url": "https://reddit.com/r/blueteamsec/comments/1lmglot/deepseek_deception_sainbox_rat_hidden_rootkit/",
+      "url_externa": "https://www.netskope.com/blog/deepseek-deception-sainbox-rat-hidden-rootkit-delivery",
+      "autor": "digicat",
+      "upvotes": 2,
+      "subreddit": "blueteamsec",
+      "created_utc": 1751094371.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Phantom Brain v0.9: local LLM + WPA2 handshake validation + cross-device dataset – no cloud, no API",
+      "texto_completo": "**TL;DR:** Open source, offline-first analysis tool for Flipper Zero, Proxmark3, WiFi Pineapple, and live captures. New this week: validated dataset + benchmark suite.\n\n# The problem I kept running into\n\nYou capture a handshake with a Pineapple, a .sub file with a Flipper, or NFC dump with a Proxmark… then what?\n\nManual analysis is slow. Cloud AI sends data out. Most tools do one thing well, but don't connect the dots.\n\nSo I built **Phantom Brain**.\n\n# What it does (simplified)\n\n1. You feed it a capture (`.pcap`, `.nfc`, `.sub`, Marauder log, Proxmark output)\n2. It **parses** the structure (no AI needed for that part)\n3. Optionally, it runs a **local LLM** (Ollama – mistral, deepseek, phi3) to enrich findings\n4. You get a structured report + risk level + hashcat-ready file (for WPA2)\n\nNo...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1shumzq/phantom_brain_v09_local_llm_wpa2_handshake/",
+      "url_externa": "https://github.com/OttoyRocky/phantom-brain",
+      "autor": "Bass-Funk",
+      "upvotes": 1,
+      "subreddit": "cybersecurity",
+      "created_utc": 1775845094.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "With Reddit facing a £14.5M ICO privacy fine this week, I built a compliant OSINT engine to actually map who is on the platform.",
+      "texto_completo": "Hey r/cybersecurity :)\n\nWith Reddit getting slapped with that massive £14.47m ICO fine yesterday over data privacy and age verification failures, it’s painfully obvious that the platform itself struggles to understand its own user base.\n\nFor those of us in threat intel, risk analysis, or digital forensics, relying on basic scraping (which just gets your IP banned anyway) or Reddit's native tools doesn't cut it anymore. My team and I have been building [THINKPOL](https://think-pol.com), an intelligence engine designed to map behavior, interests, and risks for investigators, without crossing the line into stalkerware or violating EU data laws.\n\n**What it does:**\n\n* **Aggregated Persona Analysis** \\- Feed it a username or a cluster of accounts and get AI-generated insights on demographics,...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1rebuz8/with_reddit_facing_a_145m_ico_privacy_fine_this/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1rebuz8/with_reddit_facing_a_145m_ico_privacy_fine_this/",
+      "autor": "bellsrings",
+      "upvotes": 1,
+      "subreddit": "cybersecurity",
+      "created_utc": 1772022446.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Open-sourced an LLM security scanner with 210+ adversarial probes.",
+      "texto_completo": "Hi all!\n\nI'm Nathan Sportsman, CEO of Praetorian. We do offensive security. I want to be upfront about that because I know this sub (rightfully) doesn't like hidden promotion. This is a tool we built, we open-sourced it under Apache 2.0, and I think it fills a real gap.\n\nHere's the problem we kept seeing: OWASP ranks prompt injection as the number one security risk in LLM applications. A study of 36 production LLM-integrated apps found 86% were vulnerable to prompt injection. FlipAttack (character reordering) hit 98% bypass on GPT-4o. DeepSeek R1 showed 100% bypass against HarmBench jailbreak prompts.\n\nAnd yet almost every LLM deployment we encounter in our assessment work has had zero adversarial testing. The models have safety training, but safety training is a behavioral overlay. It...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1r0haq8/opensourced_an_llm_security_scanner_with_210/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1r0haq8/opensourced_an_llm_security_scanner_with_210/",
+      "autor": "Praetorian_Security",
+      "upvotes": 1,
+      "subreddit": "cybersecurity",
+      "created_utc": 1770672786.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Best way to gather IOCs from across the web, can AI help (ChatGPT, Deepseek, models, tools)?",
+      "texto_completo": "Hi everyone,\n\nI plan a targeted threat hunt focused on specific trends (malware families, CVE exploitation chains, and APT activity) and i want to build a reliable pipeline to fetch IOCs from across the internet (blogs, GitHub, paste sites, malware reports, public feeds) and automatically turn them into hunting queries for SOC use.\n\nMy questions are:\n\n1. What tools do you use to collect IOCs at scale? (VirusTotal, MISP, OpenCTI........)\n2. Can AI meaningfully help gather IOCs from the web?\n   * Is ChatGPT Plus useful for this? or is theire other Ai model more better (like Deepseek or other models)?\n   * Which AI model types are practical for automation?\n\nThank You",
+      "url": "https://reddit.com/r/cybersecurity/comments/1nskvlm/best_way_to_gather_iocs_from_across_the_web_can/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1nskvlm/best_way_to_gather_iocs_from_across_the_web_can/",
+      "autor": "No-Hair-4399",
+      "upvotes": 0,
+      "subreddit": "cybersecurity",
+      "created_utc": 1759055091.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "How secure are AI-powered IDEs like Windsurf and Cursor when handling proprietary code?",
+      "texto_completo": "Our development teams are currently using Windsurf and Cursor IDEs for application development. We’ve restricted access to general-purpose AI chatbots like ChatGPT and Gemini, allowing only licensed tools due to concerns over proprietary code exposure.\n\nI’d like to better understand how these AI-powered IDEs ensure code confidentiality while still providing AI-driven suggestions:\n\nDo these tools guarantee that code remains stored locally, or is it transmitted to cloud servers for processing?\n\nIf cloud-based processing is involved, is the code encrypted both in transit and at rest?\n\nAnd importantly, where are the encryption keys stored—are they retained locally, or managed by the service provider?",
+      "url": "https://reddit.com/r/cybersecurity/comments/1kh6xwq/how_secure_are_aipowered_ides_like_windsurf_and/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1kh6xwq/how_secure_are_aipowered_ides_like_windsurf_and/",
+      "autor": "rock3t_raco0n",
+      "upvotes": 0,
+      "subreddit": "cybersecurity",
+      "created_utc": 1746647943.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Agentic-SOC-Simulation: AI 驱动的 SOC 仿真平台 - \"integrating the DeepSeek inference model , multi-agent collaboration, and the MCP (Model Context Protocol) standard, we have built a virtual SOC team with autonomous perception, deep reasoning, and automatic response capabilities.\"",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: Agentic-SOC-Simulation: AI 驱动的 SOC 仿真平台 - \"integrating the DeepSeek inference model , multi-agent collaboration, and the MCP (Model Context Protocol) standard, we have built a virtual SOC team with autonomous perception, deep reasoning, and automatic response capabilities.\" | Fonte externa: https://github.com/SafelineMan/Agentic-SOC-Simulation",
+      "url": "https://reddit.com/r/blueteamsec/comments/1q0ykzc/agenticsocsimulation_ai_驱动的_soc_仿真平台_integrating/",
+      "url_externa": "https://github.com/SafelineMan/Agentic-SOC-Simulation",
+      "autor": "digicat",
+      "upvotes": 0,
+      "subreddit": "blueteamsec",
+      "created_utc": 1767252644.0
+    }
+  ],
+  "nvd_cves": [],
+  "telemetry": {
+    "Exploração de Vulnerabilidades": 75.0,
+    "Evasão de Defesas (EDR/AV)": 18.8,
+    "Negociação e Resgate": 6.2
+  }
+}

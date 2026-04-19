@@ -1,0 +1,177 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-04-19T11:52:39.031325",
+  "search_term": "Nvidia",
+  "reddit_threads": [
+    {
+      "fonte": "reddit",
+      "titulo": "Prompt injection is becoming a major security threat",
+      "texto_completo": "With businesses integrating more AI elements into their systems, from chatbots to managements software, a core issue is continuously ignored, prompt injection!\n\n\n\nWhilst there are several examples of this happening in a critical scale. Like:\n\n– A malicious Google Calendar invite exfiltrating Gmail data via connectors  \n– Gemini poisoned through untrusted documents that persist in memory  \n– DeepSeek’s R1 model failing all 50 prompt-injection safety tests  \n– GitHub MCP issues exposing private repo data  \n– “Policy Puppetry” tricking LLMs into following attacker policies  \n– Lightweight prompt injection persisting across web retrieval &amp; agents\n\nThat gives us a broader view on why organizations MUST compartmentalize AI models and not give them unbound access to critical information. And...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1nhijzp/prompt_injection_is_becoming_a_major_security/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1nhijzp/prompt_injection_is_becoming_a_major_security/",
+      "autor": "therealsugar11",
+      "upvotes": 358,
+      "subreddit": "cybersecurity",
+      "created_utc": 1757933470.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Mythos has been launched!",
+      "texto_completo": "https://www.anthropic.com/glasswing\n\nAnthropic launched Project Glasswing, a cybersecurity initiative with major partners including AWS, Apple, Cisco, CrowdStrike, Google, JPMorganChase, Microsoft, NVIDIA, Palo Alto Networks, and the Linux Foundation. The goal is to use Anthropic’s unreleased model, Claude Mythos Preview, to find and fix serious vulnerabilities in critical software before attackers can exploit them. Anthropic says the model has already identified thousands of high-severity bugs, including issues in major operating systems and browsers, and is committing up to $100 million in usage credits plus $4 million in donations to open-source security groups.  \n\nThe core claim of the post is that AI has crossed a threshold in cybersecurity: Anthropic argues these frontier models can...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1sf5fbb/mythos_has_been_launched/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1sf5fbb/mythos_has_been_launched/",
+      "autor": "Happy-Alternative1",
+      "upvotes": 280,
+      "subreddit": "cybersecurity",
+      "created_utc": 1775588666.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "New Rowhammer attacks give complete control of machines running Nvidia GPUs",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: New Rowhammer attacks give complete control of machines running Nvidia GPUs | Fonte externa: http://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus",
+      "url": "https://reddit.com/r/cybersecurity/comments/1sbfcxj/new_rowhammer_attacks_give_complete_control_of/",
+      "url_externa": "http://arstechnica.com/security/2026/04/new-rowhammer-attacks-give-complete-control-of-machines-running-nvidia-gpus",
+      "autor": "arstechnica",
+      "upvotes": 98,
+      "subreddit": "cybersecurity",
+      "created_utc": 1775227025.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "NVIDIAScape - NVIDIA AI Vulnerability (CVE-2025-23266) - Escape in NVIDIA Container Toolkit",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: NVIDIAScape - NVIDIA AI Vulnerability (CVE-2025-23266) - Escape in NVIDIA Container Toolkit | Fonte externa: https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape",
+      "url": "https://reddit.com/r/blueteamsec/comments/1m2txxi/nvidiascape_nvidia_ai_vulnerability_cve202523266/",
+      "url_externa": "https://www.wiz.io/blog/nvidia-ai-vulnerability-cve-2025-23266-nvidiascape",
+      "autor": "digicat",
+      "upvotes": 89,
+      "subreddit": "blueteamsec",
+      "created_utc": 1752816363.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "When a SSRF is enough: Full Docker Escape on Windows Docker Desktop (CVE-2025-9074)",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: When a SSRF is enough: Full Docker Escape on Windows Docker Desktop (CVE-2025-9074) | Fonte externa: https://blog.qwertysecurity.com/Articles/blog3.html",
+      "url": "https://reddit.com/r/netsec/comments/1mwhisp/when_a_ssrf_is_enough_full_docker_escape_on/",
+      "url_externa": "https://blog.qwertysecurity.com/Articles/blog3.html",
+      "autor": "Wanazabadee",
+      "upvotes": 81,
+      "subreddit": "netsec",
+      "created_utc": 1755797394.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "The Whitelist Won: How Anthropic Turned a Pentagon Blacklist into a Consortium",
+      "texto_completo": "The DoD designated Anthropic a supply chain risk. Two months later the designation is legally tangled and operationally hollow. Anthropic embedded itself into the security stack of Amazon, Google, Microsoft, Apple, NVIDIA, CrowdStrike, JPMorgan and others via Project Glasswing. If CrowdStrike runs Mythos-derived findings in its products and CrowdStrike is DoD-compliant, Anthropic is inside the defense supply chain by definition. The ban removed visibility, not dependency. Two courts, two statutory tracks, both live. The legal fight is secondary.",
+      "url": "https://reddit.com/r/cybersecurity/comments/1sghclb/the_whitelist_won_how_anthropic_turned_a_pentagon/",
+      "url_externa": "https://liminaldr.substack.com/p/the-whitelist-won?r=7oeyxv",
+      "autor": "Dirty_Dishis",
+      "upvotes": 59,
+      "subreddit": "cybersecurity",
+      "created_utc": 1775714647.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Any actual AI wins in cybersecurity?",
+      "texto_completo": "I keep seeing vendors everywhere pushing AI as the next big breakthrough in cybersecurity.\n\nHas anyone actually seen this happen in real life?\n\nI’m not talking about marketing slides or “anonymized success stories.” I mean a real, concrete case where AI genuinely detected or prevented something that could not have been handled by \"classic\" rules and alerts?",
+      "url": "https://reddit.com/r/cybersecurity/comments/1pfzpwy/any_actual_ai_wins_in_cybersecurity/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1pfzpwy/any_actual_ai_wins_in_cybersecurity/",
+      "autor": "olegshm",
+      "upvotes": 15,
+      "subreddit": "cybersecurity",
+      "created_utc": 1765054407.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Intel AMD and Nvidia Patch Vulnerabilities, LAPD GeoSpy Al Tool, Microsoft Patches 100 Vulnerabilities",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: Intel AMD and Nvidia Patch Vulnerabilities, LAPD GeoSpy Al Tool, Microsoft Patches 100 Vulnerabilities | Fonte externa: https://cybersecuritynewsnetwork.substack.com/p/intel-amd-and-nvidia-patch-vulnerabilities",
+      "url": "https://reddit.com/r/cybersecurity/comments/1mpl8yg/intel_amd_and_nvidia_patch_vulnerabilities_lapd/",
+      "url_externa": "https://cybersecuritynewsnetwork.substack.com/p/intel-amd-and-nvidia-patch-vulnerabilities",
+      "autor": "_cybersecurity_",
+      "upvotes": 11,
+      "subreddit": "cybersecurity",
+      "created_utc": 1755130299.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM (University of Toronto)",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM (University of Toronto) | Fonte externa: https://semiengineering.com/rowhammer-attack-on-nvidia-gpus-with-gddr6-dram-university-of-toronto/",
+      "url": "https://reddit.com/r/cybersecurity/comments/1m1i728/rowhammer_attack_on_nvidia_gpus_with_gddr6_dram/",
+      "url_externa": "https://semiengineering.com/rowhammer-attack-on-nvidia-gpus-with-gddr6-dram-university-of-toronto/",
+      "autor": "Chipdoc",
+      "upvotes": 11,
+      "subreddit": "cybersecurity",
+      "created_utc": 1752685472.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Black Box to Black Box - Is 'Built-in' Governance for AI Agents a major security anti-pattern?",
+      "texto_completo": "Anthropic just dropped their Managed Agents post and everyone is hyped about the 10x speed, but I think we are ignoring a massive red flag. they are basically bundling the brain and the firewall into the same black box.\n\nIs it the cat guarding the milk problem? In what other world do we let the application be its own security layer? If the model hallucinations or hits a jailbreak, you have zero independent verification. \n\n\n\nShould we trusting the provider, or should we using an independent security layer or a proxy to intercept tool calls (mcp/stdio) such (https://docs.nvidia.com/openshell/latest/index.html) or node9 (https://github.com/node9-ai/node9-proxy) that act as an external sudo layer?\n\n\n\nIs manage agent just a convenience trap, or do people actually trust these model providers to...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1sgogf9/black_box_to_black_box_is_builtin_governance_for/",
+      "url_externa": "https://claude.com/blog/claude-managed-agents",
+      "autor": "WhichCardiologist800",
+      "upvotes": 9,
+      "subreddit": "cybersecurity",
+      "created_utc": 1775738337.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "TEE-based AI inference is being overlooked as a security solution",
+      "texto_completo": "Been doing security audits for AI systems and I'm amazed how many companies are sleeping on trusted execution environments for inference.\n\nEveryone's focused on traditional security measures like encryption at rest, network isolation, API authentication. All important, but they miss a fundamental issue: the inference endpoint itself is a massive attack surface.\n\nThink about it. You send sensitive data to an AI model. Even with HTTPS, once it hits the server, you're trusting that entire stack. The model weights could be extracted. Your input data could be logged. The inference could be manipulated.\n\nTEEs solve this elegantly. The model runs in a hardware-isolated enclave. Cryptographic attestation proves what code is running. Even if the host OS is compromised, the enclave stays secure....",
+      "url": "https://reddit.com/r/cybersecurity/comments/1no2evi/teebased_ai_inference_is_being_overlooked_as_a/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1no2evi/teebased_ai_inference_is_being_overlooked_as_a/",
+      "autor": "cattorii",
+      "upvotes": 8,
+      "subreddit": "cybersecurity",
+      "created_utc": 1758584998.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "I have created a GUI for hashcat with integration for Escrow services from hashes.com",
+      "texto_completo": "I have created a GUI tool for hashcat with lot of features, it includes:  \n\\-Multi session and queue management.  \n\\-Session Insights like power used and efficiency of each session and mask analysis.  \n\\-Remote access using zrok.  \n\\- Escrow section.  \n\\-Hash extractor.\n\nIt is for windows only for now and power stats only work for nvidia gpus for now.\n\npeople who use hashcat regularly give it a try and let me know your feedback.\n\nGithub: [https://github.com/jjsvs/Hashcat-Reactor.git](https://github.com/jjsvs/Hashcat-Reactor.git)",
+      "url": "https://reddit.com/r/cybersecurity/comments/1phvsx1/i_have_created_a_gui_for_hashcat_with_integration/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1phvsx1/i_have_created_a_gui_for_hashcat_with_integration/",
+      "autor": "Ok_Essay3559",
+      "upvotes": 8,
+      "subreddit": "cybersecurity",
+      "created_utc": 1765247025.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Agent skill marketplace supply chain attack: 121 skills across 7 repos vulnerable to GitHub username hijacking, 5 scanners disagree by 10x on malicious skill rates (arXiv:2603.16572)",
+      "texto_completo": "**Submission URL**\n    : https://arxiv.org/abs/2603.16572\n    \n    **Repository hijacking**\n     — Skills.sh and SkillsDirectory index agent skills by pointing to GitHub repository URLs rather than hosting files directly. When an original repository owner renames their GitHub account, the previous username becomes available. An adversary who claims that username and recreates the repository intercepts all future skill downloads. The authors found 121 skills forwarding to 7 vulnerable repositories. The most-downloaded hijackable skill had 2,032 downloads.\n    \n    \n    **Scanner disagreement**\n     — The paper tested 5 scanners against 238,180 unique skills from 4 marketplaces. Fail rates ranged from 3.79% (Snyk on Skills.sh) to 41.93% (OpenClaw scanner on ClawHub). Cross-scanner consensus...",
+      "url": "https://reddit.com/r/netsec/comments/1s0dmuv/agent_skill_marketplace_supply_chain_attack_121/",
+      "url_externa": "https://raxe.ai/labs/radar/radar-2026-002#malicious-or-not-adding-repository-context-to-agent-skill-classification",
+      "autor": "cyberamyntas",
+      "upvotes": 7,
+      "subreddit": "netsec",
+      "created_utc": 1774158105.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Anthropic's unreleased Claude Mythos model found zero-days in every major OS and browser. CrowdStrike and Palo Alto Networks are launch partners, not competitors",
+      "texto_completo": "Anthropic announced Project Glasswing today. They're restricting their most capable model to 12 partners for defensive security work only. The partner list is notable: AWS, Apple, Broadcom, Cisco, CrowdStrike, Google, JPMorganChase, Linux Foundation, Microsoft, NVIDIA, Palo Alto Networks.\n\nWhat caught my attention is that CrowdStrike and Palo Alto Networks — companies that sell proprietary AI-powered threat detection — are publicly endorsing a competitor's model for vulnerability discovery. Microsoft's Global CISO confirmed it showed improvements on their internal CTI-REALM benchmark.\n\nFrom the system card and red team blog:\n\n* Found a 27-year-old RCE in OpenBSD (remote crash via network connection)\n* Found a 16-year-old bug in FFmpeg in a code path that fuzzers had hit 5 million times\n*...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1sfavq9/anthropics_unreleased_claude_mythos_model_found/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1sfavq9/anthropics_unreleased_claude_mythos_model_found/",
+      "autor": "NecessaryPapaya51",
+      "upvotes": 6,
+      "subreddit": "cybersecurity",
+      "created_utc": 1775600999.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Augustus: Open-source LLM vulnerability scanner with 210+ adversarial probes (Go, Apache 2.0)",
+      "texto_completo": "Hi everyone, continuing to share open-source tooling for Blue Teaming.\n\nOpen-source tool for testing LLMs against prompt injection, jailbreaks, encoding bypasses (Base64, ROT13, Morse, 12+ others), data extraction, RAG poisoning, and agent-level attacks. Ships as a single Go binary with support for 28 providers including OpenAI, Anthropic, Azure, Bedrock, Vertex, and Ollama. Includes a buff system for chaining evasion transformations (paraphrasing, low-resource language translation, poetry reformatting) to test whether safety training generalizes beyond expected input patterns. Inspired by NVIDIA's garak, reimplemented in Go for single-binary distribution and goroutine concurrency.",
+      "url": "https://reddit.com/r/blueteamsec/comments/1r0hgtq/augustus_opensource_llm_vulnerability_scanner/",
+      "url_externa": "https://github.com/praetorian-inc/augustus",
+      "autor": "Praetorian_Security",
+      "upvotes": 6,
+      "subreddit": "blueteamsec",
+      "created_utc": 1770673146.0
+    }
+  ],
+  "nvd_cves": [],
+  "telemetry": {
+    "Exploração de Vulnerabilidades": 90.9,
+    "Evasão de Defesas (EDR/AV)": 9.1
+  }
+}

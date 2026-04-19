@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-04-19T11:56:17.913932",
+  "search_term": "AMD",
+  "reddit_threads": [
+    {
+      "fonte": "reddit",
+      "titulo": "The RCE that AMD won't fix!",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: The RCE that AMD won't fix! | Fonte externa: https://mrbruh.com/amd/",
+      "url": "https://reddit.com/r/netsec/comments/1qxdzcu/the_rce_that_amd_wont_fix/",
+      "url_externa": "https://mrbruh.com/amd/",
+      "autor": "moviuro",
+      "upvotes": 99,
+      "subreddit": "netsec",
+      "created_utc": 1770373342.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Intel AMD and Nvidia Patch Vulnerabilities, LAPD GeoSpy Al Tool, Microsoft Patches 100 Vulnerabilities",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: Intel AMD and Nvidia Patch Vulnerabilities, LAPD GeoSpy Al Tool, Microsoft Patches 100 Vulnerabilities | Fonte externa: https://cybersecuritynewsnetwork.substack.com/p/intel-amd-and-nvidia-patch-vulnerabilities",
+      "url": "https://reddit.com/r/cybersecurity/comments/1mpl8yg/intel_amd_and_nvidia_patch_vulnerabilities_lapd/",
+      "url_externa": "https://cybersecuritynewsnetwork.substack.com/p/intel-amd-and-nvidia-patch-vulnerabilities",
+      "autor": "_cybersecurity_",
+      "upvotes": 12,
+      "subreddit": "cybersecurity",
+      "created_utc": 1755130299.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "New Attack Targets DDR5 Memory to Steal Keys From Intel and AMD TEEs",
+      "texto_completo": "A team of academic researchers has disclosed the details of a new attack method that can be used to break CPU-based security technologies from Intel and AMD by targeting DDR5 memory.\n\nhttps://tee.fail\n\nOctober 2025",
+      "url": "https://reddit.com/r/cybersecurity/comments/1ojkqxm/new_attack_targets_ddr5_memory_to_steal_keys_from/",
+      "url_externa": "https://www.securityweek.com/new-attack-targets-ddr5-memory-to-steal-keys-from-intel-and-amd-tees",
+      "autor": "Choobeen",
+      "upvotes": 8,
+      "subreddit": "cybersecurity",
+      "created_utc": 1761782064.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "For those persons who collect amd amalgamate threat intelligence (OSINT) from the web",
+      "texto_completo": "..how do you handle those cases where you end up with personal data, since it was embedded or included in a cyber incident or cyber news report? How do you avoid taking in this personal data? I especially want to hear from those who work in a corporate SOC environment who are scraping their own cyber news from the web.\n\nMore details\n\nLet's say there is a news article which says person Jane Doe was hacked. She was tricked by clicking a link about Bears Football Team since she is from Brown Bears Town Chicago.\n\nNow we know her name, hometown, etc. Personal data, no? I know that compliance teams may have issues with this.",
+      "url": "https://reddit.com/r/cybersecurity/comments/1k6s2d5/for_those_persons_who_collect_amd_amalgamate/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1k6s2d5/for_those_persons_who_collect_amd_amalgamate/",
+      "autor": "JamQueen1",
+      "upvotes": 7,
+      "subreddit": "cybersecurity",
+      "created_utc": 1745500901.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "TEE-based AI inference is being overlooked as a security solution",
+      "texto_completo": "Been doing security audits for AI systems and I'm amazed how many companies are sleeping on trusted execution environments for inference.\n\nEveryone's focused on traditional security measures like encryption at rest, network isolation, API authentication. All important, but they miss a fundamental issue: the inference endpoint itself is a massive attack surface.\n\nThink about it. You send sensitive data to an AI model. Even with HTTPS, once it hits the server, you're trusting that entire stack. The model weights could be extracted. Your input data could be logged. The inference could be manipulated.\n\nTEEs solve this elegantly. The model runs in a hardware-isolated enclave. Cryptographic attestation proves what code is running. Even if the host OS is compromised, the enclave stays secure....",
+      "url": "https://reddit.com/r/cybersecurity/comments/1no2evi/teebased_ai_inference_is_being_overlooked_as_a/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1no2evi/teebased_ai_inference_is_being_overlooked_as_a/",
+      "autor": "cattorii",
+      "upvotes": 7,
+      "subreddit": "cybersecurity",
+      "created_utc": 1758584998.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "RMPocalypse Attack - \" we demonstrate an attack on all AMD processors that support SEV-SNP (Zen 3/4/5) and compromise all confidential computing guarantees. Reverse Map Table, in short RMP, is one of the main protection mechanisms in SEV-SNP\"",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: RMPocalypse Attack - \" we demonstrate an attack on all AMD processors that support SEV-SNP (Zen 3/4/5) and compromise all confidential computing guarantees. Reverse Map Table, in short RMP, is one of the main protection mechanisms in SEV-SNP\" | Fonte externa: https://rmpocalypse.github.io/",
+      "url": "https://reddit.com/r/blueteamsec/comments/1o5dbvw/rmpocalypse_attack_we_demonstrate_an_attack_on/",
+      "url_externa": "https://rmpocalypse.github.io/",
+      "autor": "digicat",
+      "upvotes": 5,
+      "subreddit": "blueteamsec",
+      "created_utc": 1760341005.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Heracles Attack - Chosen Plaintext Attack on AMD SEV-SNP (to appear at ACM CCS 2025)",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: Heracles Attack - Chosen Plaintext Attack on AMD SEV-SNP (to appear at ACM CCS 2025) | Fonte externa: https://heracles-attack.github.io/",
+      "url": "https://reddit.com/r/blueteamsec/comments/1mnpabg/heracles_attack_chosen_plaintext_attack_on_amd/",
+      "url_externa": "https://heracles-attack.github.io/",
+      "autor": "digicat",
+      "upvotes": 5,
+      "subreddit": "blueteamsec",
+      "created_utc": 1754946565.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "StackWarp: security vulnerability that exploits a synchronization bug present in all AMD Zen 1–5 processors",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: StackWarp: security vulnerability that exploits a synchronization bug present in all AMD Zen 1–5 processors | Fonte externa: https://stackwarpattack.com/",
+      "url": "https://reddit.com/r/cybersecurity/comments/1qeob1h/stackwarp_security_vulnerability_that_exploits_a/",
+      "url_externa": "https://stackwarpattack.com/",
+      "autor": "Chipdoc",
+      "upvotes": 4,
+      "subreddit": "cybersecurity",
+      "created_utc": 1768588762.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP | Fonte externa: https://fabricked-attack.github.io",
+      "url": "https://reddit.com/r/blueteamsec/comments/1smqipk/fabricked_misconfiguring_infinity_fabric_to_break/",
+      "url_externa": "https://fabricked-attack.github.io",
+      "autor": "digicat",
+      "upvotes": 3,
+      "subreddit": "blueteamsec",
+      "created_utc": 1776305958.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "The RCE that AMD won't fix - they store their update URL in the program’s app.config, although its a little odd that they use their “Develpment” URL in production,",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: The RCE that AMD won't fix - they store their update URL in the program’s app.config, although its a little odd that they use their “Develpment” URL in production, | Fonte externa: https://web.archive.org/web/20260205155934/https://mrbruh.com/amd/",
+      "url": "https://reddit.com/r/blueteamsec/comments/1qz1yg0/the_rce_that_amd_wont_fix_they_store_their_update/",
+      "url_externa": "https://web.archive.org/web/20260205155934/https://mrbruh.com/amd/",
+      "autor": "digicat",
+      "upvotes": 3,
+      "subreddit": "blueteamsec",
+      "created_utc": 1770533301.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "question about amd cpus for cybersecurity",
+      "texto_completo": "im entering a college course and my college head organizer said Amd cpus are not recommended for IT programs. Depsite everywhere else I've seen saying the complete opposite. I have an amd ryzen 7 9700f for context. Is the info that amd cpus aren't good for IT outdated bs now?",
+      "url": "https://reddit.com/r/cybersecurity/comments/1rrfyy0/question_about_amd_cpus_for_cybersecurity/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1rrfyy0/question_about_amd_cpus_for_cybersecurity/",
+      "autor": "LuigiDudeGaming",
+      "upvotes": 2,
+      "subreddit": "cybersecurity",
+      "created_utc": 1773286401.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Hardware-secured AI models should be standard for enterprise security",
+      "texto_completo": "Spent the last year implementing hardware attestation across our infrastructure and I'm honestly shocked this isn't already standard practice everywhere.\n\nFor those unfamiliar with the concept: your CPU has a private key that gets burned into the silicon during manufacturing. When code runs inside a secure enclave, the hardware itself cryptographically signs measurements of that code. Anyone can verify the signature using the manufacturer's public key.\n\nWhat this actually means in practice:\n\n- You can prove exactly what code is running (down to the byte)\n- You can prove data is isolated from the host operating system\n- You can verify all of this independently without trusting the infrastructure provider\n- Any tampering with the code breaks the cryptographic signature\n\nThis isn't...",
+      "url": "https://reddit.com/r/cybersecurity/comments/1ojq4tf/hardwaresecured_ai_models_should_be_standard_for/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1ojq4tf/hardwaresecured_ai_models_should_be_standard_for/",
+      "autor": "Csadvicesds",
+      "upvotes": 2,
+      "subreddit": "cybersecurity",
+      "created_utc": 1761797512.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "Which Playbooks Would You Build First?",
+      "texto_completo": "Hi everyone\n\nI have recently started working on the playbook and I am really enjoying it so far. Since I amd new to it I find myself referring to the documentation quite often for each action I add, but it’s been a great learning experience.\n\nAny playbooks you consider essential for your organisation? or where can I find playbooks that have been shared with the community just to get an overview of the scenario the playbook was created.\n\nFYI - I am working on Chronicle SIEM and SOAR",
+      "url": "https://reddit.com/r/cybersecurity/comments/1r9ugrw/which_playbooks_would_you_build_first/",
+      "url_externa": "https://old.reddit.com/r/cybersecurity/comments/1r9ugrw/which_playbooks_would_you_build_first/",
+      "autor": "No-Slip-716",
+      "upvotes": 1,
+      "subreddit": "cybersecurity",
+      "created_utc": 1771591706.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "StackWarp: Breaking AMD SEV-SNP Integrity via Deterministic Stack-Pointer Manipulation through the CPU’s Stack Engine",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: StackWarp: Breaking AMD SEV-SNP Integrity via Deterministic Stack-Pointer Manipulation through the CPU’s Stack Engine | Fonte externa: https://cispa.de/news/2026/stackwarp-final.pdf",
+      "url": "https://reddit.com/r/blueteamsec/comments/1qg38r1/stackwarp_breaking_amd_sevsnp_integrity_via/",
+      "url_externa": "https://cispa.de/news/2026/stackwarp-final.pdf",
+      "autor": "digicat",
+      "upvotes": 1,
+      "subreddit": "blueteamsec",
+      "created_utc": 1768724987.0
+    },
+    {
+      "fonte": "reddit",
+      "titulo": "RDSEED Failure on AMD “Zen 5” Processors",
+      "texto_completo": "Post sem corpo relevante. Contexto derivado do título: RDSEED Failure on AMD “Zen 5” Processors | Fonte externa: https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html",
+      "url": "https://reddit.com/r/blueteamsec/comments/1oo3ybp/rdseed_failure_on_amd_zen_5_processors/",
+      "url_externa": "https://www.amd.com/en/resources/product-security/bulletin/amd-sb-7055.html",
+      "autor": "digicat",
+      "upvotes": 1,
+      "subreddit": "blueteamsec",
+      "created_utc": 1762252099.0
+    }
+  ],
+  "nvd_cves": [],
+  "telemetry": {
+    "Exploração de Vulnerabilidades": 100.0
+  }
+}
