@@ -22,6 +22,7 @@ db.sqlite3
 data/*.md
 data/*.pdf
 data/historico/reexports/*.pdf
+data/
 
 # ── ARTEFATOS DE COMPILAÇÃO (NUITKA) ──
 *.build/
