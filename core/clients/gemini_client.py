@@ -52,26 +52,7 @@ async def chamar_gemini(
     max_retries: int = cfg.API_MAX_RETRIES,
     max_output_tokens: int = cfg.API_MAX_OUTPUT_TOKENS,
 ) -> Optional[str]:
-    """
-    Envia um prompt para o Gemini e retorna o texto gerado (assíncrono).
-
-    - I/O não-bloqueante via aiohttp
-    - asyncio.sleep no backoff (event loop nunca para)
-    - Backoff exponencial com jitter + teto máximo
-    - Retry em 429 e 5xx; falha imediata em 4xx não-retryable
-    - maxOutputTokens para forçar respostas econômicas
-    - temperature=0.4 para favorecer precisão técnica
-
-    Args:
-        prompt:            Texto do prompt.
-        api_key:           Chave de API do Google AI Studio.
-        model:             Identificador do modelo Gemini.
-        max_retries:       Tentativas máximas.
-        max_output_tokens: Limite de tokens de output (padrão: 1500).
-
-    Returns:
-        Texto gerado ou None em falha definitiva.
-    """
+    
     url = (
         f"https://generativelanguage.googleapis.com/v1beta/models"
         f"/{model}:generateContent?key={api_key}"
