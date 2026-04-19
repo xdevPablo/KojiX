@@ -39,7 +39,7 @@
 
 ---
 
-## ⬩➤ Overview
+## 🧠 Overview
 
 KojiX é uma engine de Cyber Threat Intelligence (CTI) projetada para automatizar a coleta, correlação e síntese estratégica de ameaças cibernéticas.
 
